@@ -8,3 +8,5 @@ It is mainly designed for the waiters to make Data storage of the Orders, bills 
 2. Update order
 3. Fetch order
 4. Generate Bill
+
+
